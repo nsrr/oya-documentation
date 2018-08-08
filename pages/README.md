@@ -6,7 +6,7 @@ For more information, visit the [dataset creator's actigraphy project website](h
 
 ## Notes about the data
 
-- Original data are in .MTN format (www.camntech.com).
+- Original data are in .MTN format (https://camntech.com).
 - Marker has been used to signal when the unit was not at the wrist.
 - Since Marker signal is not exported at one second epoch, time intervals around markers have been deleted as "not available". Then data has been exported as .CSV in a spreadsheet (OpenOffice Calc) and "not available" has been changed in "-1".
 - It is not possible to check the position of the recorder and therefore the ligh information is difficult to evaluate.
