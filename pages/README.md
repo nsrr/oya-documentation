@@ -1,7 +1,17 @@
 # About
 
-## Data overview
+The One Year of Actigraphy (OYA) project is exploring new methods of sleep/circadian data analysis. The main target is to search for predictive algorithms from consecutive wrist actigraphy recordings of a free-living single subject using a MotionWatch8 (CamNtech Ltd) system on the non-dominant wrist that span a full year.
 
+For more information, visit the [dataset creator's actigraphy project website](http://www.medricerca.it/actigraphy-analysis-project.html).
+
+## Notes about the data
+
+- Original data are in .MTN format (www.camntech.com).
+- Marker has been used to signal when the unit was not at the wrist.
+- Since Marker signal is not exported at one second epoch, time intervals around markers have been deleted as "not available". Then data has been exported as .CSV in a spreadsheet (OpenOffice Calc) and "not available" has been changed in "-1".
+- It is not possible to check the position of the recorder and therefore the ligh information is difficult to evaluate.
+- The light data uses different formats, depending on the intensity of the light (see MW8 user manual). In order to simplify data management, Lux decimals are in a separate column.
+- Original .MTN data are available on request.
 
 ## Recent Changes
 
