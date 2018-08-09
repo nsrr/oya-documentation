@@ -6,7 +6,7 @@ For more information, visit the [data creator's actigraphy project website](http
 
 ## Notes about the data
 
-- Each data record represents 60 seconds of data (i.e. a 1-minute epoch). Each epoch has an associated date, time, activity count, and light exposure level.
+- Each data record represents 1 second of data. Each record has an associated date, time, activity count, and light exposure level.
 - Original data are in .MTN format (https://camntech.com).
 - Marker has been used to signal when the unit was not at the wrist.
 - Since Marker signal is not exported at one second epoch, time intervals around markers have been deleted as "not available". Then data has been exported as .CSV in a spreadsheet (OpenOffice Calc) and "not available" has been changed in "-1".
