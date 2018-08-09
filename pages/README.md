@@ -1,16 +1,17 @@
 # About
 
-The One Year of Actigraphy (OYA) project is exploring new methods of sleep/circadian data analysis. The main target is to search for predictive algorithms from consecutive wrist actigraphy recordings of a free-living single subject using a MotionWatch8 (CamNtech Ltd) system on the non-dominant wrist for an entire year.
+The One Year of Actigraphy (OYA) project is exploring new methods of sleep/circadian data analysis. The main target is to search for predictive algorithms from consecutive wrist actigraphy recordings of a free-living single subject using a [MotionWatch8 (CamNtech Ltd)](https://www.camntech.com/products/motionwatch/motionwatch-8-overview) system on the non-dominant wrist for an entire year. The single subject was a 62 year-old male who wore the device between June 2016 and June 2017.
 
-For more information, visit the [dataset creator's actigraphy project website](http://www.medricerca.it/actigraphy-analysis-project.html).
+For more information, visit the [data creator's actigraphy project website](http://www.actigraphy.eu/actigraphy-analysis-project.html).
 
 ## Notes about the data
 
+- Each data record represents 60 seconds of data (i.e. a 1-minute epoch). Each epoch has an associated date, time, activity count, and light exposure level.
 - Original data are in .MTN format (https://camntech.com).
 - Marker has been used to signal when the unit was not at the wrist.
 - Since Marker signal is not exported at one second epoch, time intervals around markers have been deleted as "not available". Then data has been exported as .CSV in a spreadsheet (OpenOffice Calc) and "not available" has been changed in "-1".
 - It is not possible to check the position of the recorder and therefore the ligh information is difficult to evaluate.
-- The light data uses different formats, depending on the intensity of the light (see MW8 user manual). In order to simplify data management, Lux decimals are in a separate column.
+- The light data uses different formats, depending on the intensity of the light ([see MW8 user manual](https://www.camntech.com/images/products/MotionWatch/The%20MotionWatch%20User%20Guide.pdf)). In order to simplify data management, Lux decimals are in a separate column.
 - Original .MTN data are available on request.
 
 ## Recent Changes
