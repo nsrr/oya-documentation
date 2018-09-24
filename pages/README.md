@@ -2,7 +2,7 @@
 
 The One Year of Actigraphy (OYA) project is exploring new methods of sleep/circadian data analysis. The main target is to search for predictive algorithms from consecutive wrist actigraphy recordings of a free-living single subject using a [MotionWatch8 (CamNtech Ltd)](https://www.camntech.com/products/motionwatch/motionwatch-8-overview) system on the non-dominant wrist for an entire year. The single subject was a 62 year-old male who wore the device between June 2016 and June 2017.
 
-For more information, visit the [data creator's actigraphy project website](http://www.actigraphy.eu/actigraphy-analysis-project.html).
+For more information, visit the [data creator's actigraphy project website](http://www.actigraphy.eu/actigraphy-analysis-project.html) and [read his IARIA conference presentation](http://www.thinkmind.org/index.php?view=article&articleid=sensordevices_2018_10_40_28007).
 
 ## Notes about the data
 
