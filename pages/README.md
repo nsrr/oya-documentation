@@ -4,6 +4,18 @@ The One Year of Actigraphy (OYA) project is exploring new methods of sleep/circa
 
 For more information, visit the [data creator's actigraphy project website](http://www.actigraphy.eu/actigraphy-analysis-project.html) and [read his IARIA conference presentation](http://www.thinkmind.org/index.php?view=article&articleid=sensordevices_2018_10_40_28007). In August 2019, the data creator released a [follow-up article about the project](http://www.thinkmind.org/index.php?view=article&articleid=lifsci_v11_n12_2019_8).
 
+## Citation and acknowledgement
+
+When using this dataset, please cite the following:
+
+> [Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
+>
+> [Actigraphy Analysis Project: Predictive algorithms of individual wrist actigraphy for real life. (http://www.actigraphy.eu/actigraphy-analysis-project.html)](http://www.actigraphy.eu/actigraphy-analysis-project.html)
+
+Please include the following text in the Acknowledgements:
+
+> The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, RFP 75N92019R002).
+
 ## Notes about the data
 
 - Each data record represents 1 second of data. Each record has an associated date, time, activity count, and light exposure level.
@@ -17,11 +29,3 @@ For more information, visit the [data creator's actigraphy project website](http
 ## Recent Changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
-
-## Citation
-
-When citing this dataset please use:
-
-1. Dean DA 2nd, Goldberger AL, Mueller R, Kim M, Rueschman M, Mobley D, Sahoo SS, Jayapandian CP, Cui L, Morrical MG, Surovec S, Zhang GQ, Redline S. [**Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource.**](https://www.ncbi.nlm.nih.gov/pubmed/27070134) Sleep. 2016 May 1;39(5):1151-64. doi: 10.5665/sleep.5774. Review. PubMed PMID: 27070134; PubMed Central PMCID: PMC4835314.
-2. Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. [**The National Sleep Research Resource: towards a sleep data commons.**](https://www.ncbi.nlm.nih.gov/pubmed/29860441) J Am Med Inform Assoc. 2018 May 31. doi: 10.1093/jamia/ocy064. [Epub ahead of print] PubMed PMID: 29860441.
-3. Actigraphy Analysis Project: Predictive algorithms of individual wrist actigraphy for real life. (**http://www.actigraphy.eu/actigraphy-analysis-project.html**)
