@@ -2,7 +2,12 @@
 
 The One Year of Actigraphy (OYA) project is exploring new methods of sleep/circadian data analysis. The main target is to search for predictive algorithms from consecutive wrist actigraphy recordings of a free-living single subject using a [MotionWatch8 (CamNtech Ltd)](https://www.camntech.com/products/motionwatch/motionwatch-8-overview) system on the non-dominant wrist for an entire year. The single subject was a 62 year-old male who wore the device between June 2016 and June 2017.
 
-For more information, visit the [data creator's actigraphy project website](http://www.actigraphy.eu/actigraphy-analysis-project.html) and [read his IARIA conference presentation](http://www.thinkmind.org/index.php?view=article&articleid=sensordevices_2018_10_40_28007). In August 2019, the data creator released a [follow-up article about the project](http://www.thinkmind.org/index.php?view=article&articleid=lifsci_v11_n12_2019_8).
+For more information, browse these resources:
+
+- [Data creator's actigraphy project website](http://www.actigraphy.eu/actigraphy-analysis-project.html)
+- [IARIA conference presentation](http://www.thinkmind.org/index.php?view=article&articleid=sensordevices_2018_10_40_28007)
+- [Follow-up article, August 2019](http://www.thinkmind.org/index.php?view=article&articleid=lifsci_v11_n12_2019_8)
+- [Follow-up article, May 2021](https://osf.io/pdctj/)
 
 ## Citation and acknowledgement
 
@@ -11,6 +16,9 @@ When using this dataset, please cite the following:
 > [Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
 >
 > [Actigraphy Analysis Project: Predictive algorithms of individual wrist actigraphy for real life. (http://www.actigraphy.eu/actigraphy-analysis-project.html)](http://www.actigraphy.eu/actigraphy-analysis-project.html)
+>
+> [delucca, gianluigi. 2021. "Motionwatch8 Wrist Actimetry Data Analysis:
+ From Ambulatory Recording to Real Life Monitoring." OSF Preprints. May 13. doi:10.31219/osf.io/pdctj.](https://osf.io/pdctj/)
 
 Please include the following text in the Acknowledgements:
 
