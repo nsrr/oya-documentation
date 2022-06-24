@@ -8,6 +8,7 @@ For more information, browse these resources:
 - [IARIA conference presentation](http://www.thinkmind.org/index.php?view=article&articleid=sensordevices_2018_10_40_28007)
 - [Follow-up article, August 2019](http://www.thinkmind.org/index.php?view=article&articleid=lifsci_v11_n12_2019_8)
 - [Follow-up article, May 2021](https://osf.io/pdctj/)
+- [Follow-up article, June 2022](https://doi.org/10.31219/osf.io/cdqxh)
 
 ## Citation and acknowledgement
 
@@ -17,8 +18,9 @@ When using this dataset, please cite the following:
 >
 > [Actigraphy Analysis Project: Predictive algorithms of individual wrist actigraphy for real life. (http://www.actigraphy.eu/actigraphy-analysis-project.html)](http://www.actigraphy.eu/actigraphy-analysis-project.html)
 >
-> [delucca, gianluigi. 2021. "Motionwatch8 Wrist Actimetry Data Analysis:
- From Ambulatory Recording to Real Life Monitoring." OSF Preprints. May 13. doi:10.31219/osf.io/pdctj.](https://osf.io/pdctj/)
+> [delucca, gianluigi. 2021. "Motionwatch8 Wrist Actimetry Data Analysis: From Ambulatory Recording to Real Life Monitoring." OSF Preprints. May 13. doi:10.31219/osf.io/pdctj.](https://osf.io/pdctj/)
+>
+> [Gianluigi G. Delucca. 2022. “ Motionwatch8 Wrist Activity and Light Analysis: from ambulatory recording toward real life monitoring.” OSF Preprints. June 24. doi.org/10.31219/osf.io/cdqxh.](https://doi.org/10.31219/osf.io/cdqxh)
 
 Please include the following text in the Acknowledgements:
 
