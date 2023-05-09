@@ -4,7 +4,7 @@ The One Year of Actigraphy (OYA) project is exploring new methods of sleep/circa
 
 For more information, browse these resources:
 
-- [Data creator's actigraphy project website](http://www.actigraphy.eu/actigraphy-analysis-project.html)
+- [Data creator's actigraphy project website](https://www.actigraphy.eu/)
 - [IARIA conference presentation](http://www.thinkmind.org/index.php?view=article&articleid=sensordevices_2018_10_40_28007)
 - [Follow-up article, August 2019](http://www.thinkmind.org/index.php?view=article&articleid=lifsci_v11_n12_2019_8)
 - [Follow-up article, May 2021](https://osf.io/pdctj/)
