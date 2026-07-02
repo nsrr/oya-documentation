@@ -38,4 +38,4 @@ Please include the following text in the Acknowledgements:
 
 ## Recent Changes
 
-- Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
+- Find a complete list of changes in the [CHANGELOG](:pages_path:/CHANGELOG.md)
